@@ -109,6 +109,4 @@ While all 3 city times appeared to have a slight increase in fares in the third 
 
 Between March and April, the urban cities' sums of fares go up and down from week to week, albeit, not dramatically. Perhaps there is another factor influencing this. Further analysis would be required to identify the cause of this behaviour. It may be useful to identify any sort of events which may have taken place for the weeks which had higher sums of fares.
 
-Overall, the sum of the fares does not change dramatically throughout the entire time span.
-
-Holistically, on any given week, the sum of the fares for urban cities was the highest, and the sum of the fares for rural cities was the lowest.
+Overall, the sum of the fares does not change dramatically throughout the entire time span; on any given week, the sum of the fares for urban cities was the highest, and the sum of the fares for rural cities was the lowest.
