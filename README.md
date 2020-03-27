@@ -86,11 +86,12 @@ The following pie chart shows the percentage of the total drivers each city type
     * The number of rural city drivers represents the smallest portion of the total number of drivers
     * The number of urban city drivers represent the largest portion of the total number of drivers
 * In comparison with the other pie charts which looked at total fares and total rides, the urban proportion of the total number is significantly larger.
+
 ![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/Fig7.png)
 
 ## Further analysis (Challenge)
 ### PyBer summary DataFrame
-![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/DF1.png)
+![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/DF1png.png)
 
 The DataFrame above confirms the observations gleaned from the data visualizations shown throughout this analysis.
 * Total rides, total drivers, and total fares increase with city size
