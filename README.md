@@ -32,6 +32,7 @@ The following bubble chart shows the ride-share data for all city types. Circle 
 * Number of rides increases with city size (with rural cities having the lowest number of rides and urban having the highest)
 * Number of drivers increases with city size (with rural cities having the lowest number of drivers and urban having the highest)
 * Price per fare decreases with city size (with rural cities having the highest average fares and urban having the lowest)
+
 ![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/Fig1.png)
 
 ### PyBer ride count data for all city types (box and whisker)
@@ -40,6 +41,7 @@ The following box and whisker plot shows the ride count data for all city types.
     * The average number of rides in suburban cities is about 3.5 times higher than in rural cities
     * The average number of rides in urban cities is about 4 times higher than in rural cities
 * In the urban city-type data there is one outlier
+
 ![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/Fig2.png)
 
 ### PyBer ride fare data for all city types (box and whisker)
@@ -48,6 +50,7 @@ The following box and whisker plot shows the ride fare data for all city types. 
     * The average fare of a ride in a rural city is $5 more per ride than in suburban cities
     * The average fare of a ride in a rural city is $11 more per ride than in urban cities
 * There are no outliers
+
 ![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/Fig3.png)
 
 ### PyBer driver count data for all city types (box and whisker)
@@ -56,6 +59,7 @@ The following box and whisker plot shows the driver count data for all city type
     * On average, there are 4 times as many drivers in suburban cities than in rural cities
     * On average, there are 9 times as many drivers in urban cities than in rural cities
 * There are no outliers
+
 ![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/Fig4.png)
 
 
@@ -64,6 +68,7 @@ The following pie chart shows the percentage of the total fares each city type h
 * Percentage of the total fares increases with city size
     * Rural city fares represent the smallest portion of the total fares
     * Urban city fares represent the largest portion of the total fares
+
 ![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/Fig5.png)
 
 
@@ -72,6 +77,7 @@ The following pie chart shows the percentage of the total rides each city type h
 * Percentage of the total number of rides increases with city size
     * The number of rural city rides represents the smallest portion of the total number of rides
     * The number of urban city rides represent the largest portion of the total number of rides
+
 ![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/Fig6.png)
 
 ### PyBer percentage of total drivers data by city type (pie chart)
