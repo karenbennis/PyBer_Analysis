@@ -91,7 +91,7 @@ The following pie chart shows the percentage of the total drivers each city type
 
 ## Further analysis (Challenge)
 ### PyBer summary DataFrame
-![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/DF1png.png)
+![](https://github.com/karenbennis/PyBer_Analysis/blob/master/analysis/DF1.png)
 
 The DataFrame above confirms the observations gleaned from the data visualizations shown throughout this analysis.
 * Total rides, total drivers, and total fares increase with city size
